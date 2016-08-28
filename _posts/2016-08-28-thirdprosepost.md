@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 title: 3rd time posting from prose
 subtitle: Subtitle of post
-date: 2016-08-28T12:00:00.000Z
+date: {}
 author: Victor
 categories: 'recipies, tips'
 ---
