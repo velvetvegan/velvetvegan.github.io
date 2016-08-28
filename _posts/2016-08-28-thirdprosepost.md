@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 3rd time posting from prose
 subtitle: Subtitle of post
-date: {}
+date: '2016-08-28 T12:00:00.000Z'
 author: Victor
 categories: 'recipies, tips'
 ---
